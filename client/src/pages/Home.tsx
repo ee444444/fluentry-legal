@@ -281,7 +281,7 @@ export default function Home() {
             <p>© 2025 Fluentry. All rights reserved.</p>
             <div className="flex gap-4">
               <Users className="h-4 w-4" />
-              <span>Made for learners everywhere</span>
+              <span>Empowering Education</span>
             </div>
           </div>
         </div>
